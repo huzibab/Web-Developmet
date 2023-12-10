@@ -1,0 +1,13 @@
+h1{
+    background-color: burlywood;
+}
+p{
+    background-color: rgb(137, 134, 155);
+}
+strong{
+    background-color: rgb(15, 184, 80);
+}
+span{
+    background-color:rgb(40, 109, 82);
+    color: aliceblue;
+}
