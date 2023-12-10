@@ -1,0 +1,11 @@
+#head{
+    border: 5px solid rgb(119, 6, 134);
+}
+.definition{
+    border: 5px solid rgb(51, 17, 145);
+}
+#def{
+   
+border: 5px dashed rgb(71, 11, 71);
+background-color:bisque;
+}
